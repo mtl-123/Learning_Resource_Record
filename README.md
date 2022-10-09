@@ -9,3 +9,7 @@
 [免费Python课程](https://learn.udacity.com/courses/ud1110/)
 
 [stackoverflow技术答疑](https://stackoverflow.com/)
+
+[wikiHow 学习网站](https://zh.wikihow.com/)
+
+[iData 文章搜索引擎](https://www.cn-ki.net/)
