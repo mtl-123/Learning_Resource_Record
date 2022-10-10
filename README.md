@@ -13,3 +13,5 @@
 [wikiHow 学习网站](https://zh.wikihow.com/)
 
 [iData 文章搜索引擎](https://www.cn-ki.net/)
+
+[百度开发者搜索引擎](https://kaifa.baidu.com/)
